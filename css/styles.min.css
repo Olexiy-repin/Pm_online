@@ -398,7 +398,7 @@ a {
 }
 
 .footer {
-    padding: .625rem 0 1.25rem
+    padding: 1.625rem 0 3.25rem
 }
 
 .footer__btn {
@@ -840,14 +840,6 @@ a {
         flex-basis: 24%;
     }
 
-    .stages__list-item {
-        border-left: 1px solid rgba(204, 204, 204, .7);
-    }
-
-    .stages__list-item:last-of-type {
-        border-right: 1px solid rgba(204, 204, 204, .7);
-    }
-
     .stages__list-img {
         width: 2.625rem;
     }
@@ -920,10 +912,6 @@ a {
 
     .bonus-list__item:nth-of-type(2)::before {
         background-image: url("../img/bonus/second-dot.png");
-    }
-
-    .bonus-list__item:last-of-type::before {
-        background-image: url("../img/bonus/third-dot.png");
     }
 
     .bonus-list__description {
@@ -1034,7 +1022,7 @@ a {
     }
 
     .btn {
-        padding: .625rem 1.3125rem
+        padding: 1.125rem 1.8125rem;
     }
 
     .title {
